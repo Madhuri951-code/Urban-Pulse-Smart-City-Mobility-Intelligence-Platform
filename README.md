@@ -1,6 +1,3 @@
-# Urban-Pulse-Smart-City-Mobility-Intelligence-Platform
-
-
 # Urban Pulse – Smart City Mobility Intelligence Platform
 
 ## Project Overview
